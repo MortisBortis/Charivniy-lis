@@ -5,8 +5,6 @@ body {
   background: linear-gradient(135deg, #0f2027, #203a43, #2c5364, #3f2b96, #a8c0ff);
   background-size: 400% 400%;
   animation: gradientShift 20s ease infinite;
-  color: white;
-  font-family: cursive;
 }
 
 @keyframes gradientShift {
@@ -24,5 +22,5 @@ h1 {
    text-align:center;color:white;font-family:fantasy;font-size:70px
 }
 p {
-  font-size:20px
+  font-size:20px;color:white;font-family:fantasy;
 }
